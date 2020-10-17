@@ -49,7 +49,6 @@ export default class LineChart extends React.Component {
       };
       return (
          <div>
-            <h2>Line Chart</h2>
             <Line data={data} />
          </div>
       );

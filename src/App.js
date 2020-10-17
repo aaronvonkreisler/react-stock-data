@@ -1,5 +1,4 @@
 import React from 'react';
-import moment from 'moment';
 import SearchBar from './components/SearchBar';
 import marketshare from './apis/marketshare';
 import Table from './components/Table';
