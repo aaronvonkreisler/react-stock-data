@@ -3,7 +3,7 @@
 <hr />
 Search a stock by ticker and get historical data.
 
-!(Image of page)[/image/picture.PNG]
+![Image of page](/image/picture.PNG)
 
 ## Available Scripts
 
